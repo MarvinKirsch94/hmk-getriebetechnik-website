@@ -192,13 +192,25 @@ h4{
 
 #azubi{
 	display:inline-block;
-	background-color:white;
-	height:400px;
-	width:300px;
+	background-color:#D8D8D8;
 	margin-top:100px;
 	margin-bottom:25px;
 	margin-left:1000px;
 	text-align: left;
+	border: 4px solid #BEBEBE;
+}
+
+#mitarbeiter_text_container_h{
+	padding: 2%;
+	margin-bottom: 2%;
+	background-color: #BEBEBE;
+	border: 3px solid #EEEEEE;
+}
+
+#mitarbeiter_text_container_p{
+	padding: 2%;
+	background-color: #BEBEBE;
+	border: 3px solid #EEEEEE;
 }
 
 #impressum{

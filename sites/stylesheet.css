@@ -182,13 +182,12 @@ h4{
 	text-align: left;
 }
 
-#azubi{
+#azubi{ 
+	padding: 0.5%;
 	display:inline-block;
-	background-color:#D8D8D8;
-	margin-top:100px;
-	margin-bottom:25px;
-	margin-left:1000px;
-	text-align: left;
+	background-color:#C8C8C8;
+	margin-top:3%;
+	margin-left:60%;
 	border: 4px solid #BEBEBE;
 }
 
@@ -197,6 +196,11 @@ h4{
 	margin-bottom: 2%;
 	background-color: #BEBEBE;
 	border: 3px solid #EEEEEE;
+}
+
+#img_daniel{
+	width: 60%;
+	height: 60%;
 }
 
 #mitarbeiter_text_container_p{

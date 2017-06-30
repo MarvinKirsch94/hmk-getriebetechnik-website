@@ -150,6 +150,11 @@ h4{
 	font-size:22px;
 }
 
+#mitarbeiter img{
+	width: 60%;
+	height: 60%;
+}
+
 #chef{
 	display:inline-block;
 	background-color:#D8D8D8;

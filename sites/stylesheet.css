@@ -145,49 +145,58 @@ h4{
 }
 
 #mitarbeiter{
-	text-align: center;
+	text-align: left;
 	font-family: Calibri;
 	font-size:22px;
 }
 
 #chef{
-	background-color:white;
-	margin-left: 42%;
-	margin-right: 42%;
-	margin-top: 5%;
-	text-align: left;
-}
-
-#werkstattleiter{
 	display:inline-block;
-	background-color:white;
+	background-color:#D8D8D8;
 	margin-top:100px;
-	margin-left: 300px;
+	margin-bottom:25px;
+	margin-left:800px;
 	text-align: left;
+	border: 4px solid #BEBEBE;
 }
 
 #büro{
 	display:inline-block;
-	background-color:white;
+	background-color:#D8D8D8;
 	margin-top:100px;
-	margin-right: 300px;
+	margin-bottom:25px;
+	margin-left:500px;
 	text-align: left;
+	border: 4px solid #BEBEBE;
+}
+
+#werkstattleiter{
+	display:inline-block;
+	background-color:#D8D8D8;
+	margin-top:100px;
+	margin-bottom:25px;
+	margin-left:400px;
+	text-align: left;
+	border: 4px solid #BEBEBE;
 }
 
 #geselle{
 	display:inline-block;
-	background-color:white;
+	background-color:#D8D8D8;
 	margin-top:100px;
-	margin-left:1000px;
+	margin-bottom:25px;
+	margin-left:400px;
 	text-align: left;
+	border: 4px solid #BEBEBE;
 }
 
-#azubi{ 
-	padding: 0.5%;
+#azubi{
 	display:inline-block;
-	background-color:#C8C8C8;
-	margin-top:3%;
-	margin-left:60%;
+	background-color:#D8D8D8;
+	margin-top:100px;
+	margin-bottom:25px;
+	margin-left:400px;
+	text-align: left;
 	border: 4px solid #BEBEBE;
 }
 
@@ -198,12 +207,7 @@ h4{
 	border: 3px solid #EEEEEE;
 }
 
-#img_daniel{
-	width: 60%;
-	height: 60%;
-}
-
-#mitarbeiter_text_container_p{
+#mitarbeiter_text_container_f{ /*p zu f geändert footer ist passender*/
 	padding: 2%;
 	background-color: #BEBEBE;
 	border: 3px solid #EEEEEE;
